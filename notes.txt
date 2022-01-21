@@ -1,0 +1,4 @@
+At this point just run: 
+1.  npm install --save-dev @electron-forge/cli
+2.  npx electron-forge import (it will alter package.json)
+3.  npm run make
