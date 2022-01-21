@@ -1,4 +1,4 @@
-# accounts-modular-deskto-app
+# accounts-modular-desktop-app
 Accounts-modular MERN webapp converted to desktop app using Electron Forge
 
 Steps to convert MERN webapp to desktop app with Electron forge
