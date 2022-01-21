@@ -9,4 +9,5 @@ Steps to convert MERN webapp to desktop app with Electron forge
 4.  npm install --save-dev @electron-forge/cli
 5.  npx electron-forge import (it will alter package.json)
 6.  add app icon to "packagerConfig" : {"icon" : "path/to/icon"}
-7.  npm run make
+7.  npm run package
+8.  npm run make (if you want to create a distributable)
