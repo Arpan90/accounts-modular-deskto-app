@@ -35,13 +35,16 @@
   "config": {
     "forge": {
       "packagerConfig": {
-        "icon": "assets/accounts.ico"
+        "icon": "assets/accounts.ico",
+        "setupIcon": "assets/accounts.ico"
       },
       "makers": [
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "accounts_modular"
+            "name": "accounts_modular",
+            "icon": "assets/accounts.ico",
+            "setupIcon": "assets/accounts.ico"
           }
         },
         {
